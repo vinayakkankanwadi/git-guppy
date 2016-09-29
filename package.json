@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/vinayakkankanwadi/gulpjs#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "git-guppy": "^1.2.1",
+    "gulp": "^3.9.1",
+    "guppy-pre-commit": "^0.4.0"
   }
 }
